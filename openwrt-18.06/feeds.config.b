@@ -1,7 +1,9 @@
-src-git packages https://github.com/mulder125/packages_sfx1200.git;openwrt-18.06
-src-git luci https://github.com/immortalwrt/luci.git;openwrt-18.06
-src-git routing https://github.com/immortalwrt/routing.git;openwrt-18.06
-src-git telephony https://github.com/openwrt/telephony.git
-src-git kenzo https://github.com/kenzok8/openwrt-packages.git
-src-git small https://github.com/kenzok8/small.git
-src-git kwrt https://github.com/kiddin9/kwrt-packages.git
+src-git packages https://git.openwrt.org/feed/packages.git
+src-git luci https://git.openwrt.org/project/luci.git
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+#src-git video https://github.com/openwrt/video.git
+#src-git targets https://github.com/openwrt/targets.git
+#src-git management https://github.com/openwrt-management/packages.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
