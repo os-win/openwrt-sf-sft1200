@@ -4,3 +4,8 @@
 ##src-git telephony https://github.com/openwrt/telephony.git
 ##src-git kenzo https://github.com/kenzok8/openwrt-packages.git
 ##src-git small https://github.com/kenzok8/small.git
+
+src-git packages https://github.com/openwrt/packages.git
+src-git luci http://git.openwrt.org/project/luci.git
+src-git routing https://github.com/openwrt-routing/packages.git
+src-git telephony http://git.openwrt.org/feed/telephony.git
