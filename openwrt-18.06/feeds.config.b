@@ -1,4 +1,4 @@
-src-git packages https://github.com/mulder125/packages_sfx1200.git
+##src-git packages https://github.com/mulder125/packages_sfx1200.git
 ##src-git luci https://github.com/immortalwrt/luci.git
 ##src-git routing https://github.com/immortalwrt/routing.git
 ##src-git telephony https://github.com/openwrt/telephony.git
