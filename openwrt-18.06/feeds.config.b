@@ -1,10 +1,7 @@
-##src-git packages https://github.com/mulder125/packages_sfx1200.git
-##src-git luci https://github.com/immortalwrt/luci.git
-##src-git routing https://github.com/immortalwrt/routing.git
-##src-git telephony https://github.com/openwrt/telephony.git
-##src-git kenzo https://github.com/kenzok8/openwrt-packages.git
-##src-git small https://github.com/kenzok8/small.git
-
 src-git packages https://github.com/mulder125/packages_sfx1200.git;openwrt-18.06
-src-git luci https://github.com/openwrt/luci.git;openwrt-18.06
-src-git packages https://github.com/kiddin9/kwrt-packages.git
+src-git luci https://github.com/immortalwrt/luci.git;openwrt-18.06
+src-git routing https://github.com/immortalwrt/routing.git;openwrt-18.06
+src-git telephony https://github.com/openwrt/telephony.git
+src-git kenzo https://github.com/kenzok8/openwrt-packages.git
+src-git small https://github.com/kenzok8/small.git
+src-git kwrt https://github.com/kiddin9/kwrt-packages.git
