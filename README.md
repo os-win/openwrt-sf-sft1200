@@ -16,7 +16,7 @@ cp .config.sf1200 .config
 
 #編譯SFT1200
 
-cp .config.sf1200 .config
+cp .config.sft1200 .config
 
 配置所需app
 
