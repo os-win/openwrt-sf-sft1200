@@ -6,4 +6,4 @@
 ##src-git small https://github.com/kenzok8/small.git
 
 
-src-git luci https://github.com/openwrt/luci.git
+src-git luci https://github.com/openwrt/luci.git;openwrt-18.06
