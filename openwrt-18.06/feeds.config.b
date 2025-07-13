@@ -4,3 +4,4 @@
 ##src-git telephony https://github.com/openwrt/telephony.git
 ##src-git kenzo https://github.com/kenzok8/openwrt-packages.git
 ##src-git small https://github.com/kenzok8/small.git
+src-git packages https://github.com/coolsnowwolf/lede/package
