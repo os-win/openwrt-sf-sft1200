@@ -8,7 +8,7 @@ cd openwrt-18.06
 
 #更新feed
 
-/scripts/feeds update -a && ./scripts/feeds install -a
+./scripts/feeds update -a && ./scripts/feeds install -a
 
 #編譯SF120
 
