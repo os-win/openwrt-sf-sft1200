@@ -5,5 +5,5 @@
 ##src-git kenzo https://github.com/kenzok8/openwrt-packages.git
 ##src-git small https://github.com/kenzok8/small.git
 
-
+src-git packages https://github.com/mulder125/packages_sfx1200.git;openwrt-18.06
 src-git luci https://github.com/openwrt/luci.git;openwrt-18.06
